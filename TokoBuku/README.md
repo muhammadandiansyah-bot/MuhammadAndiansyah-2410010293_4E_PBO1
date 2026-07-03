@@ -201,4 +201,4 @@ java -cp out/ Main
 
 ## Tautan
 - **GitHub:** [ISI TAUTAN REPOSITORI]
-- **YouTube:** [ISI TAUTAN VIDEO PENJELASAN]
+- **YouTube:** [https://youtu.be/YY3p7aq7sCg]
