@@ -200,5 +200,5 @@ java -cp out/ Main
 ---
 
 ## Tautan
-- **GitHub:** [ISI TAUTAN REPOSITORI]
+- **GitHub:** [https://github.com/muhammadandiansyah-bot/MuhammadAndiansyah-2410010293_4E_PBO1.git]
 - **YouTube:** [https://youtu.be/YY3p7aq7sCg]
